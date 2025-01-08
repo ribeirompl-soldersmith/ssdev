@@ -1,0 +1,30 @@
+{
+  "name": "ssdev",
+  "displayName": "ssdev",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.96.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "samuelcolvin.jinjahtml",
+    "alefragnani.project-manager",
+    "streetsidesoftware.code-spell-checker",
+    "ritwickdey.LiveServer",
+    "VisualStudioExptTeam.intellicode-api-usage-examples",
+    "VisualStudioExptTeam.vscodeintellicode",
+    "mechatroner.rainbow-csv",
+    "stackbreak.comment-divider",
+    "jacobcassidy.css-nesting-syntax-highlighting",
+    "monosans.djlint",
+    "yzhang.markdown-all-in-one",
+    "christian-kohler.path-intellisense",
+    "ms-python.python",
+    "ms-python.debugpy",
+    "ms-python.vscode-pylance",
+    "charliermarsh.ruff"
+  ]
+}
