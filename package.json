@@ -1,7 +1,9 @@
 {
   "name": "ssdev",
   "displayName": "ssdev",
-  "description": "",
+  "publisher": "ribeirompl-soldersmith",
+  "repository": "https://github.com/ribeirompl-soldersmith/ssdev",
+  "description": "Collection of extensions for development",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.96.0"
